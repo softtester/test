@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSource", "OpenSource\OpenSource.csproj", "{6CFD7B58-9A66-4FAA-A8F5-F5292A438064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateProject", "PrivateProject\PrivateProject.csproj", "{E4FD1AC6-3FDE-4217-B062-52168A300F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSourceTest", "OpenSourceTest\OpenSourceTest.csproj", "{DA8A55DB-0864-4C63-9BBA-30A35898F38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFD7B58-9A66-4FAA-A8F5-F5292A438064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFD7B58-9A66-4FAA-A8F5-F5292A438064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFD7B58-9A66-4FAA-A8F5-F5292A438064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFD7B58-9A66-4FAA-A8F5-F5292A438064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4FD1AC6-3FDE-4217-B062-52168A300F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FD1AC6-3FDE-4217-B062-52168A300F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FD1AC6-3FDE-4217-B062-52168A300F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FD1AC6-3FDE-4217-B062-52168A300F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8A55DB-0864-4C63-9BBA-30A35898F38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8A55DB-0864-4C63-9BBA-30A35898F38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8A55DB-0864-4C63-9BBA-30A35898F38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8A55DB-0864-4C63-9BBA-30A35898F38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
